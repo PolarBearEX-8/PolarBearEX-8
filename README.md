@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080F1F,50:123B55,100:22D3EE&text=PolarBearEX-8&fontSize=54&fontColor=E6FAFF&fontAlignY=38&desc=COLD%20NAME.%20WARM%20COMMITS.&descAlignY=60&descSize=17" alt="PolarBearEX-8 — Cold name. Warm commits." />
 
-### 🐻‍❄️ Building things from the den.
-
 Minecraft plugins · Web projects · Experiments that become repositories
 
 <a href="https://github.com/PolarBearEX-8?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=github&logoColor=08111F" alt="Explore my repositories" /></a>
