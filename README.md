@@ -11,6 +11,9 @@ Minecraft plugins · Web projects · Experiments that become repositories
 
 #### ✦ PROFILE VIEWS ✦
 
+<img src="https://komarev.com/ghpvc/?username=PolarBearEX-8" alt="PolarBearEX-8 profile views — Komarev" />
+<br /><br />
+
 <img src="https://count.getloli.com/@PolarBearEX-8?theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="PolarBearEX-8 profile views — booru-lisu counter" />
 
 </div>
@@ -68,4 +71,4 @@ My repositories range from **Java Minecraft plugins** to **TypeScript web projec
 
 </div>
 
-<!-- Profile view counter provided by count.getloli.com. External images depend on their respective services. -->
+<!-- Profile view counters provided by Komarev and count.getloli.com. External images depend on their respective services. -->
