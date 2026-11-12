@@ -4,8 +4,8 @@
 
 Minecraft plugins · Web projects · Experiments that become repositories
 
-<a href="https://github.com/PolarBearEX-8?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=github&logoColor=08111F" alt="Explore my repositories" /></a>
-<a href="https://github.com/PolarBearEX-8?tab=followers"><img src="https://img.shields.io/github/followers/PolarBearEX-8?label=FOLLOWERS&style=for-the-badge&color=155E75&labelColor=0D1117" alt="GitHub followers" /></a>
+<a href="https://github.com/PolarBearEX-8?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my repositories" /></a>
+<a href="https://github.com/PolarBearEX-8?tab=followers"><img src="https://img.shields.io/github/followers/PolarBearEX-8?label=FOLLOWERS&style=for-the-badge&color=EC4899&labelColor=4A1942" alt="GitHub followers" /></a>
 
 <br /><br />
 
