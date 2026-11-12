@@ -15,38 +15,11 @@ Minecraft plugins · Web projects · Experiments that become repositories
 
 ---
 
-### `01` / Inside the den
-
-```text
-┌─ polarbear@github ~ ────────────────────────────┐
-│                                               │
-│  location   Thailand 🇹🇭                       │
-│  building   Minecraft plugins & web projects  │
-│  exploring  Code. Tools. New ideas.            │
-│  motto      Stay curious. Keep shipping.       │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-สวัสดีครับ 👋 Welcome to my little corner of GitHub.
-
-My repositories range from **Java Minecraft plugins** to **TypeScript web projects**, with a few hardware and tooling experiments along the way. Pick a project below and take a look around.
-
-### `02` / Languages across my repos
+### Languages across my repos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,python,c&theme=dark" alt="Java, TypeScript, JavaScript, HTML, CSS, Python and C" />
 </p>
-
-### `03` / From the workshop
-
-| Project | What's inside | Language |
-| :--- | :--- | :--- |
-| 🧊 **[PremiumSyncUUID](https://github.com/PolarBearEX-8/PremiumSyncUUID)** | Sync player data from Offline UUID to Online UUID; supports Bukkit, Spigot, Paper and Folia. | `Java` |
-| ⚔️ **[LiteKits-PvP](https://github.com/PolarBearEX-8/LiteKits-PvP)** | A lightweight KitPvP plugin for Minecraft 1.8. | `Java` |
-| 🛡️ **[PremiumGuard](https://github.com/PolarBearEX-8/PremiumGuard)** | Protect premium player identities on offline-mode servers. | `Java` |
-| 🌿 **[AlgaeCore](https://github.com/PolarBearEX-8/AlgaeCore)** | Explore the source and latest work. | `TypeScript` |
-| 🔌 **[ArduinoESP-Flash](https://github.com/PolarBearEX-8/ArduinoESP-Flash)** | Explore the source and latest work. | `Python` |
 
 <div align="center">
 
@@ -57,10 +30,6 @@ My repositories range from **Java Minecraft plugins** to **TypeScript web projec
 ---
 
 <div align="center">
-
-**Build something useful. Make it a little cooler.**
-
-<sub>I am not affiliated with PolarAnticheat in any way.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:080F1F,50:123B55,100:22D3EE&section=footer" alt="Arctic wave footer" />
 
