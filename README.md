@@ -27,7 +27,6 @@ Minecraft plugins · Web projects · Experiments that become repositories
 
 </div>
 
----
 
 <div align="center">
 
