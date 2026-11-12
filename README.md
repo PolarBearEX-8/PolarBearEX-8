@@ -21,13 +21,6 @@ Minecraft plugins · Web projects · Experiments that become repositories
   <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,python,c&theme=dark" alt="Java, TypeScript, JavaScript, HTML, CSS, Python and C" />
 </p>
 
-### Achievements
-
-<p align="center">
-  <a href="https://github.com/PolarBearEX-8?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" alt="Achievement: Pull Shark" /></a>
-  <a href="https://github.com/PolarBearEX-8?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="110" alt="Achievement: YOLO" /></a>
-</p>
-
 <div align="center">
 
 **[View all repositories →](https://github.com/PolarBearEX-8?tab=repositories)**
