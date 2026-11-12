@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080F1F,50:123B55,100:22D3EE&text=PolarBearEX-8&fontSize=54&fontColor=E6FAFF&fontAlignY=38&desc=COLD%20NAME.%20WARM%20COMMITS.&descAlignY=60&descSize=17" alt="PolarBearEX-8 — Cold name. Warm commits." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080F1F,50:123B55,100:22D3EE&text=PolarBearEX-8&fontSize=54&fontColor=E6FAFF&fontAlignY=38" alt="PolarBearEX-8" />
 
 Minecraft plugins · Web projects · Experiments that become repositories
 
